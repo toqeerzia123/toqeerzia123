@@ -17,7 +17,7 @@
 
 ## SUMMARY
 
-Senior Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native enterprise systems using **.NET Core, Angular, and Azure**.
+Senior Software Engineer with 7+ years of experience designing and delivering scalable, cloud-native enterprise systems using **.NET Core, Angular, and Azure**.
 
 Experienced in microservices architecture, distributed messaging systems, Azure AD/B2C authentication, and performance-optimized SQL platforms.
 
